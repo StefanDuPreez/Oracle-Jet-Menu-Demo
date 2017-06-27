@@ -1,0 +1,28 @@
+{
+    "applObject":[
+        {
+            "id":"dashboard",
+            "label":"Dashboard",
+            "default": true,
+            "display":true
+        },
+        {
+            "id":"customers",
+            "label":"Customers",
+            "default": false,
+            "display":true
+        },
+        {
+            "id":"incidents",
+            "label":"Incidents",
+            "default": false,
+            "display":true
+        },
+        {
+            "id":"about",
+            "label":"This Comes From The DB",
+            "default": false,
+            "display":true
+        }
+    ]
+}
